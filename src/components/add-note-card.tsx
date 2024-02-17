@@ -122,9 +122,7 @@ export function AddNoteCard({ createNote }: AddNoteCardProps) {
                                     className='text-sm leading-6 text-slate-400 text-justify bg-transparent outline-none resize-none h-40 overflow-y-auto flex-1'
                                     onChange={handleContentChange}
                                     value={content}
-                                >
-
-                                </textarea>
+                                />
                             )}
                         </div>
                         

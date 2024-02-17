@@ -47,6 +47,8 @@ export function App() {
 
         setNotes(notesArray)
         localStorage.setItem('@nlw/notes', JSON.stringify(notesArray))
+
+        toast.success('Nota atualizada com sucesso')
     })
 
     const deleteNote = ((id: string) => {
