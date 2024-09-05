@@ -4,7 +4,7 @@
 
 1. Clone the repository
     ```sh
-    git clone https://github.com/m-piovesan/resto-project.git
+    git clone git@github.com:m-piovesan/nlw-expert-notes.git
     ```
 2. Navigate to the project directory
     ```sh
